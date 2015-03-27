@@ -1,0 +1,16 @@
+{
+  "name": "angular-storage",
+  "version": "0.0.1",
+  "description": "Angular storage creator",
+  "main": "dist/angular-storage.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lobchuk Vitaly <vn.lobchuk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
