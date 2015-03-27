@@ -1,11 +1,10 @@
 angular-storage
 =============================
 
-## Install
+This service allows you to create session or local storage, but if there is no support, then the cookie will be used
 
-Install:
+## Install
 
 `bower install angular-storage`
 
 ## Documentation
-
