@@ -71,6 +71,6 @@ If local or session storage not supported then method `'getStorage'` return Cook
 CookieStorage has exists methods:
 
 - getItem(key)
-- setItem(key, value, options) - options @see https://docs.angularjs.org/api/ngCookies/provider/$cookiesProvider#defaults
+- setItem(key, value, options) - options see https://docs.angularjs.org/api/ngCookies/provider/$cookiesProvider#defaults
 - removeItem(key)
 - clear
